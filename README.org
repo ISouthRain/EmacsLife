@@ -20,7 +20,7 @@
 (org-crypt-use-before-save-magic)
 (setq org-tags-exclude-from-inheritance '("crypt"))
 ;; GPG ID, 解密一个文件可以知道这个ID
-(setq org-crypt-key "885A586a9BA7A3F8")
+(setq org-crypt-key "885A586a9*******")
 (setq auto-save-default nil)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Windows 用户使用加密的时候可能因为换行符的原因导致产生 ^M 无法加密, 可使用以下函数加密
@@ -33,8 +33,8 @@
   (org-decrypt-entry))
 )
    #+END_SRC
-   0. (setq org-crypt-key "885A586a9BA7A3F8")
-        [[https://raw.githubusercontent.com/ISouthRain/EmacsLife/main/Attachment/README/Org-mode/2022-07-25_23-32-05_%E6%89%B9%E6%B3%A8 2022-07-25 233105.png]]
+   0. (setq org-crypt-key "885A586a9*******")
+      [[file:https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png][GPGID]]
    1. Open .gpg file can auto Encrypt or Decrypt
    2. 单独解密某个标题
 * License

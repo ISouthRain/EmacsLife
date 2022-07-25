@@ -34,7 +34,7 @@
 )
    #+END_SRC
    0. (setq org-crypt-key "885A586a9BA7A3F8")
-        [[file:Attachment/README/Org-mode/2022-07-25_23-32-05_%E6%89%B9%E6%B3%A8 2022-07-25 233105.png]]
+        [[/Attachment/README/Org-mode/2022-07-25_23-32-05_%E6%89%B9%E6%B3%A8 2022-07-25 233105.png]]
    1. Open .gpg file can auto Encrypt or Decrypt
    2. 单独解密某个标题
 * License

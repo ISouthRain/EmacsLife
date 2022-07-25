@@ -1,8 +1,14 @@
 * what is this ?
   Emacs Happy in Your Life.
+
   Wecome to you share Emacs happy Life, everything.
+ 
   分享你的 Emacs Happy 时刻, 任何都可以, 只要你认为有用.
 
 * How to Share your Emacs happy ?
   Fork this and Pull Request. Thanks !!
 * Org-mode
+** Org-mode Use Gnupg
+   *
+* License
+  This software is provided by MIT License.

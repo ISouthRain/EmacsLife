@@ -23,7 +23,7 @@
 (setq org-crypt-key "885A586a9*******")
 (setq auto-save-default nil)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Windows 用户使用加密的时候可能因为换行符的原因导致产生 ^M 无法加密, 可使用以下函数加密
+;; Windows 用户使用加密的时候可能因为换行符的原因导致产生 ^M 无法加密, 可使用以下函数解密
 ;; 解决 ^M 解密问题
 (defun freedom/org-decrypt-entry ()
   "Replace DOS eolns CR LF with Unix eolns CR"
@@ -36,6 +36,5 @@
    0. (setq org-crypt-key "885A586a9*******")
       ![GpgID](https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png)
    1. Open .gpg file can auto Encrypt or Decrypt
-   2. 单独解密某个标题
 # License
   This software is provided by MIT License.

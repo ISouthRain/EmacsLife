@@ -70,7 +70,7 @@ code
 #+end_html
 [[file:https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png]]
 #+begin_html
-  </details>
+</details>
 #+end_html
 
 1. Open .gpg file can auto Encrypt or Decrypt # License This software is

@@ -48,6 +48,7 @@ Fork this and Pull Request. Thanks !!
 #+begin_html
 </details>
 #+end_html
+
 #+begin_html
 <details>
 #+end_html

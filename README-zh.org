@@ -60,17 +60,17 @@ code
 0. (setq org-crypt-key "885A586a9*******")\\
 
 #+begin_html
-     <details>
+<details>
 #+end_html
 
 #+begin_html
-     <summary>
+<summary>
 #+end_html
 
 demo
 
 #+begin_html
-     </summary>
+</summary>
 #+end_html
 
 [[file:https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png]]

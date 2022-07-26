@@ -52,7 +52,7 @@ Fork this and Pull Request. Thanks !!
 </details>
 #+end_html
 
-1. (setq org-crypt-key "885A586a9*******")\\
+1. (setq org-crypt-key "885A586a9*******")
 
 #+begin_html
 <details>

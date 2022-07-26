@@ -59,19 +59,23 @@ code
 
 0. (setq org-crypt-key "885A586a9*******")\\
 
-   #+begin_html
+#+begin_html
      <details>
-   #+end_html
+#+end_html
 
-   #+begin_html
+#+begin_html
      <summary>
-   #+end_html
+#+end_html
 
-   demo
+demo
 
-   #+begin_html
+#+begin_html
      </summary>
-   #+end_html
+#+end_html
+
+#+begin_example
+<img width="700" alt="GpgID" src="https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png">
+#+end_example
 
 #+begin_html
   </details>

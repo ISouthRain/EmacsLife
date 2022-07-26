@@ -22,7 +22,7 @@ Fork this and Pull Request. Thanks !!
 #+begin_html
 </summary>
 #+end_html
-#+begin_example
+#+begin_src elisp
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; org 标题加密， 只需添加 :crypt:
 (use-package org-crypt
@@ -44,7 +44,7 @@ Fork this and Pull Request. Thanks !!
  (while (search-forward "\r" nil t) (replace-match ""))
 (org-decrypt-entry))
 )
-#+end_example
+#+end_src
 #+begin_html
 </details>
 #+end_html

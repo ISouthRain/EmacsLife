@@ -10,8 +10,8 @@ Wecome to you share Emacs happy Life, everything.
 
 * How to Share your Emacs happy ?
 
-Fork this and Pull Request. Thanks !! 
-* Org-mode 
+Fork this and Pull Request. Thanks !!
+* Org-mode
 ** Org-mode Use Gnupg
 
 *Emacs Org-mode and Gnupg encrypted data protect your privacy*
@@ -52,7 +52,7 @@ Fork this and Pull Request. Thanks !!
 </details>
 #+end_html
 
-1. (setq org-crypt-key "885A586a9*******")
+- (setq org-crypt-key "885A586a9*******") ;; 👇
 
 #+begin_html
 <details>
@@ -68,5 +68,5 @@ Fork this and Pull Request. Thanks !!
 </details>
 #+end_html
 
-2. Open .gpg file can auto Encrypt or Decrypt # License This software is
+- Open .gpg file can auto Encrypt or Decrypt # License This software is
    provided by MIT License.

@@ -16,3 +16,7 @@
 
   </details>
 #+end_myclass
+
+#+begin_tip
+Try doing it this way...
+#+end_tip

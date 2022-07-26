@@ -48,14 +48,11 @@ Fork this and Pull Request. Thanks !!
 #+begin_html
 </details>
 #+end_html
-#+begin_src elisp
-(setq org-crypt-key "885A586a9*******") ;; 👇
-#+end_src
 #+begin_html
 <details>
 #+end_html
 #+begin_html
-<summary>GpgID
+<summary>(setq org-crypt-key "885A586a9*******") ;; 👇
 #+end_html
 #+begin_html
 </summary>

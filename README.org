@@ -1,7 +1,4 @@
 * what is this ?
-  :PROPERTIES:
-  :CUSTOM_ID: what-is-this
-  :END:
 Emacs Happy in Your Life.
 
 Wecome to you share Emacs happy Life, everything.
@@ -51,12 +48,11 @@ Fork this and Pull Request. Thanks !!
 #+begin_html
 </details>
 #+end_html
-
-- (setq org-crypt-key "885A586a9*******") ;; 👇
-
+#+begin_src elisp
+(setq org-crypt-key "885A586a9*******") ;; 👇
+#+end_src
 #+begin_html
-<details>
-#+end_html
+<details> #+end_html
 #+begin_html
 <summary>GpgID
 #+end_html
@@ -68,5 +64,7 @@ Fork this and Pull Request. Thanks !!
 </details>
 #+end_html
 
-- Open .gpg file can auto Encrypt or Decrypt # License This software is
-   provided by MIT License.
+- Open .gpg file can auto Encrypt or Decrypt
+
+* License
+ This software is provided by MIT License.

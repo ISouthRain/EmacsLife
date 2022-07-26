@@ -73,6 +73,8 @@ demo
      </summary>
 #+end_html
 
+[[file:https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png]]
+
 #+begin_example
 <img width="700" alt="GpgID" src="https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png">
 #+end_example

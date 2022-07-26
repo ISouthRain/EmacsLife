@@ -17,7 +17,7 @@ Fork this and Pull Request. Thanks !!
 <details>
 #+end_html
 #+begin_html
-<summary>code
+<summary>Configure code
 #+end_html
 #+begin_html
 </summary>

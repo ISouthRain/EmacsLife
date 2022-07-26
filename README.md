@@ -10,6 +10,9 @@
 # Org-mode
 ## Org-mode Use Gnupg
    **Emacs Org-mode and Gnupg encrypted data protect your privacy**
+   <details>
+<summary>code</summary>
+
    ``` elisp
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; org 标题加密， 只需添加 :crypt:
@@ -33,13 +36,13 @@
   (org-decrypt-entry))
 )
    ```
+   
+</details>
+</details>
    0. (setq org-crypt-key "885A586a9*******")  
-   <details>
-    <summary>demo</summary>  
-  
+
     ![GpgID](https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png)  
-  
-   </details>
+
 
    1. Open .gpg file can auto Encrypt or Decrypt
 # License

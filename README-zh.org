@@ -65,7 +65,6 @@ code
 #+begin_html
 <summary>demo
 #+end_html
-demo
 #+begin_html
 </summary>
 #+end_html

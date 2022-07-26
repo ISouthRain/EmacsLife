@@ -16,19 +16,14 @@ Fork this and Pull Request. Thanks !! # Org-mode ## Org-mode Use Gnupg
 *Emacs Org-mode and Gnupg encrypted data protect your privacy*
 
 #+begin_html
-  <details>
+<details>
 #+end_html
-
 #+begin_html
-  <summary>
+<summary>code
 #+end_html
-
-code
-
 #+begin_html
-  </summary>
+</summary>
 #+end_html
-
 #+begin_example
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; org 标题加密， 只需添加 :crypt:
@@ -52,9 +47,8 @@ code
 (org-decrypt-entry))
 )
 #+end_example
-
 #+begin_html
-  </details>
+</details>
 #+end_html
 
 0. (setq org-crypt-key "885A586a9*******")\\

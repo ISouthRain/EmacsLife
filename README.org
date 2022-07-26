@@ -26,24 +26,24 @@ Fork this and Pull Request. Thanks !!
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; org 标题加密， 只需添加 :crypt:
 (use-package org-crypt
-:defer 4
-:ensure nil
-:config
-(org-crypt-use-before-save-magic)
-(setq org-tags-exclude-from-inheritance '("crypt"))
-;; GPG ID, 解密一个文件可以知道这个ID
-(setq org-crypt-key "885A586a9*******")
-(setq auto-save-default nil)
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Windows 用户使用加密的时候可能因为换行符的原因导致产生 ^M 无法加密, 可使用以下函数解密
-;; 解决 ^M 解密问题
-(defun freedom/org-decrypt-entry ()
-"Replace DOS eolns CR LF with Unix eolns CR"
-(interactive)
-(goto-char (point-min))
- (while (search-forward "\r" nil t) (replace-match ""))
-(org-decrypt-entry))
-)
+  :defer 4
+  :ensure nil
+  :config
+  (org-crypt-use-before-save-magic)
+  (setq org-tags-exclude-from-inheritance '("crypt"))
+  ;; GPG ID, 解密一个文件可以知道这个ID
+  (setq org-crypt-key "885A586a9*******")
+  (setq auto-save-default nil)
+  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+  ;; Windows 用户使用加密的时候可能因为换行符的原因导致产生 ^M 无法加密, 可使用以下函数解密
+  ;; 解决 ^M 解密问题
+  (defun freedom/org-decrypt-entry ()
+    "Replace DOS eolns CR LF with Unix eolns CR"
+    (interactive)
+    (goto-char (point-min))
+    (while (search-forward "\r" nil t) (replace-match ""))
+    (org-decrypt-entry))
+  )
 #+end_src
 #+begin_html
 </details>

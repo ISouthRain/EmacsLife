@@ -9,10 +9,9 @@ Wecome to you share Emacs happy Life, everything.
 分享你的 Emacs Happy 时刻, 任何都可以, 只要你认为有用.
 
 * How to Share your Emacs happy ?
-  :PROPERTIES:
-  :CUSTOM_ID: how-to-share-your-emacs-happy
-  :END:
+
 Fork this and Pull Request. Thanks !! # Org-mode ## Org-mode Use Gnupg
+
 *Emacs Org-mode and Gnupg encrypted data protect your privacy*
 
 #+begin_html

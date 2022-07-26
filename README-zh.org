@@ -7,3 +7,12 @@
   </details>
 
    1. Open .gpg file can auto Encrypt or Decrypt
+
+#+begin_myclass
+   <details>
+<summary>demo</summary>
+
+<img width="700" alt="GpgID" src="https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png">
+
+  </details>
+#+end_myclass

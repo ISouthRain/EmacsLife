@@ -33,7 +33,7 @@
   (org-decrypt-entry))
 )
    ```
-   0. (setq org-crypt-key "885A586a9*******")
+   0. (setq org-crypt-key "885A586a9*******")  
       ![GpgID](https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png)
    1. Open .gpg file can auto Encrypt or Decrypt
 # License

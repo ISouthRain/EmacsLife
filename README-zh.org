@@ -10,7 +10,9 @@ Wecome to you share Emacs happy Life, everything.
 
 * How to Share your Emacs happy ?
 
-Fork this and Pull Request. Thanks !! # Org-mode ## Org-mode Use Gnupg
+Fork this and Pull Request. Thanks !! 
+* Org-mode 
+** Org-mode Use Gnupg
 
 *Emacs Org-mode and Gnupg encrypted data protect your privacy*
 

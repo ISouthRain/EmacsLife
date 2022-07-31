@@ -67,7 +67,7 @@ Fork this and Pull Request. Thanks !!
   [[file:https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/Gpg.mp4]]
  
 #+begin_html
-  <video poster="效果动图"  width="360" height="240" controls>
+  <video>
 #+end_html
 
 #+begin_html

@@ -65,17 +65,6 @@ Fork this and Pull Request. Thanks !!
 
 - Open .gpg file can auto Encrypt or Decrypt
   [[file:https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/Gpg.mp4]]
- 
-#+begin_html
-  <video>
-#+end_html
 
-#+begin_html
-  [[file:https://github.com/ISouthRain/EmacsLife/blob/main/Attachment/README/Org-mode/GpgID.png]]
-#+end_html
-
-#+begin_html
-  </video>
-#+end_html
 * License
  This software is provided by MIT License.
